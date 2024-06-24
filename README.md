@@ -62,8 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gauravdave083/gauravdave083/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">------------------------------------------------------------------------------------------------------------------------</p>
